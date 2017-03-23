@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_toolbars.xml",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\menu\\main_toolbars.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\menu\\toolbars.xml",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\menu\\toolbars.xml"
+    }
+]

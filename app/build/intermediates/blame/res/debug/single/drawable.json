@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_select_area.png",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\drawable\\ic_select_area.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_walk.png",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\drawable\\ic_walk.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_select_point.png",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\drawable\\ic_select_point.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\model_default.png",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\drawable\\model_default.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_zoom_area.png",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\drawable\\ic_zoom_area.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_generic.png",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\drawable\\ic_generic.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_orbit.png",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\drawable\\ic_orbit.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_fly.png",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\drawable\\ic_fly.png"
+    }
+]

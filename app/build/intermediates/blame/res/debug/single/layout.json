@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_code.xml",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\layout\\user_code.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_client.xml",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\layout\\activity_web_client.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hsffile_row.xml",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\layout\\hsffile_row.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\operators.xml",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\layout\\operators.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_trigger.xml",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\layout\\keyboard_trigger.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\modes.xml",
+        "source": "D:\\WorkSpace\\android_sandbox\\app\\src\\main\\res\\layout\\modes.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\android_sandbox\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\liupf\\.android\\build-cache\\186b5151c2561fa98974d57e23bbfe06b0970cb7\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    }
+]

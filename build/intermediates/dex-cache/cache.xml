@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\liupf\.android\build-cache\17eeb0f3b94ef2b2b43ce00253569215c2e9b61c\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\WorkSpace\android_sandbox\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_8c8c52d74c4e1f7d886df10eb18a0a91f26b3410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liupf\.android\build-cache\186b5151c2561fa98974d57e23bbfe06b0970cb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\WorkSpace\android_sandbox\app\build\intermediates\pre-dexed\debug\classes_fc3432d7a88e7ec34b56b579201fa98232ed8d9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liupf\.android\build-cache\17eeb0f3b94ef2b2b43ce00253569215c2e9b61c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\WorkSpace\android_sandbox\app\build\intermediates\pre-dexed\debug\classes_e8a5b87869bbfea524347c1e6c413699acb0f14c.jar" />
+    </item>
+
+</items>
